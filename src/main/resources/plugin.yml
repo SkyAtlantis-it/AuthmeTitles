@@ -1,0 +1,11 @@
+name: AuthMeTitles
+version: ${project.version}
+main: pl.ucraft.authmetitles.AuthMeTitlesPlugin
+softdepend:
+  - AuthMe
+  - TitleAPI
+authors:
+  - ucraft
+  - ImDanih
+description: Mostra i titoli ai giocatori registrati/non registrati durante l'autenticazione
+website: https://skyatlantis.it
